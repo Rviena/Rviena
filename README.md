@@ -1,6 +1,6 @@
 
 <h1><img src="img/blob-sunglasses.gif" width="30"> Hey! Nice to see you.</h1>
-<img src="img/banner-code.png" alt="Programador">
+<img src="img/banner-code.png"  alt="Ronald Viena" style="width:100%; height: auto;">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-viena/)
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
@@ -53,16 +53,15 @@ I'm Ronald,hardware and software developer from Perú, currently living in the c
 
 <picture><img align="right" src="img/programador.gif" width = 250px></picture>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rviena&show_icons=true&theme=dark&locale=en" alt="Rviena" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rviena&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rviena" /></p>
-
 <br></br>
 <br></br>
 <br></br>
 <br></br>
 <br></br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rviena&show_icons=true&theme=dark&locale=en" alt="Rviena" /> 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rviena&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rviena" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rviena&theme=dark" alt="Rviena" />
 </p>
 
