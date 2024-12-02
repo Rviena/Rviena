@@ -60,9 +60,10 @@ I'm Ronald,hardware and software developer from Perú, currently living in the c
 <br></br>
 <br></br>
 <br></br>
+<br></br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rviena&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rviena" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rviena&theme=dark" alt="Rviena" />
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rviena&theme=dark" alt="Rviena" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rviena&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rviena" />
 </p>
 
 
